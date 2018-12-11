@@ -31,7 +31,7 @@ public class MyBigNumber {
 	static void nhap(){
 		String s1,s2;
 		Scanner sc = new Scanner(System.in);
-		System.out.print("nhap hai so nguyen : ")
+		System.out.print("nhap hai so nguyen : ");
 		s1 = sc.next();
 		s2 = sc.next();
 		String s = add(s1,s2);
